@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	font-family: Helvetica , Arial , sans-serif;
+}
+header{
+	background-color: lightgrey;
+	text-align: center;
+	padding-top: 20px ;
+	padding-bottom: 20px;
+}
+h1,h2{
+	font-family: 'Moon Dance', cursive;
+	font-size: 50px;
+}
+header h1{
+	color: darkblack;
+}
+header img{
+	border-radius: 150px;
+	border: 10px solid black;
+}
